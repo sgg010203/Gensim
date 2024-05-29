@@ -1,1 +1,2 @@
 # Gensim
+这是一个Gensim所需要用到的stopwords停用词文件
