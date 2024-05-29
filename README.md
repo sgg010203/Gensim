@@ -1,2 +1,3 @@
 # Gensim
 这是一个Gensim所需要用到的stopwords停用词文件
+用于自己Kaggle导入datasets中
